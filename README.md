@@ -1,7 +1,6 @@
 Hello JavaFX and Maven (Example Project)
 =========================================
 
-*NOTE: I plan to turn this example project into a Maven archetype soon. This project will be obsolete once that happens.*
 
 This is a simple "Hello World" example showing a ready to roll JavaFX project using the 
 <a href="https://github.com/zonski/javafx-maven-plugin">ZenJava JavaFX Maven plugin</a>. This can be downloaded 
